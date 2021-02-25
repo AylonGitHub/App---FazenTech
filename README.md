@@ -1,2 +1,2 @@
 # App---FazenTech
-Aplicativo para pedidos de produtos agrícolas diretamente do produtos.
+Aplicativo para pedidos de produtos agrícolas diretamente do produtor.
